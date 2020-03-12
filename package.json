@@ -1,19 +1,16 @@
 {
-  
   "name": "exercicio1",
   "version": "1.0.0",
-  "description": "Exercicios 09-03-2020",
   "main": "index.js",
   "repository": "https://github.com/andrerrh/exercicio1.git",
   "author": "andrerrh <andre.rodrigues.he@gmail.com>",
   "license": "MIT",
-  "scripts": {
-      "start": "node index.js",
-      "dev": "nodemon index.js"
-  },
-
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.2"
+  },
+  "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
   }
 }
