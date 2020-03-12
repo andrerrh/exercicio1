@@ -8,7 +8,8 @@
   "author": "andrerrh <andre.rodrigues.he@gmail.com>",
   "license": "MIT",
   "scripts": {
-      "start": "nodemon index.js"
+      "start": "node index.js",
+      "dev": "nodemon index.js"
   },
 
   "dependencies": {
